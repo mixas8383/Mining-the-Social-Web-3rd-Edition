@@ -21,7 +21,8 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+.directory
+notebooks/.directory
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
